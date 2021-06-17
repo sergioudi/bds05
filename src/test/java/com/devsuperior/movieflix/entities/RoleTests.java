@@ -3,7 +3,7 @@ package com.devsuperior.movieflix.entities;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-public class RoleText {
+public class RoleTests {
 
 	@Test
 	public void reviewShouldHaveCorrectStructure() {
